@@ -1,0 +1,50 @@
+{
+    "16": {
+        "r": 1,
+        "should be here": 6,
+        "should not be here": 11
+    },
+    "18": {
+        "r": 14,
+        "should be here": 9,
+        "should not be here": 16
+    },
+    "20": {
+        "r": 0,
+        "should be here": 7,
+        "should not be here": 0
+    },
+    "25": {
+        "r": 3,
+        "should be here": 8,
+        "should not be here": 37
+    },
+    "30": {
+        "r": 3,
+        "should be here": 11,
+        "should not be here": 9
+    },
+    "35": {
+        "r": 1,
+        "should be here": 4,
+        "should not be here": 4
+    },
+    "40": {
+        "r": 1,
+        "should be here": 9,
+        "should not be here": 0
+    },
+    "45": {
+        "r": 0,
+        "should be here": 11,
+        "should not be here": 0
+    },
+    "50": {
+        "r": 0,
+        "should be here": 12,
+        "should not be here": 0
+    }
+}
+
+//Precision: 0.23
+// Werte: {-12: 16, -6: 18, -4: 20, 0: 25, 4: 30, 8: 35, 12: 40, 16: 45}
